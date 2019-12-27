@@ -13,7 +13,7 @@ void main() {
         body: Center(
           child: Image(
             image: AssetImage('images/pixel.jpeg')
-//            image: NetworkImage('https://my-cpe.com//uploads//webinar_image//image_1576254925.png'),
+//            image: NetworkImage('https://my-cpe.com//uploads//webinar_image//image_1576254925.png'),..
           ),
         ),
       ),
